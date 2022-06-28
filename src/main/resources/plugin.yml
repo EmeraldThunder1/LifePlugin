@@ -1,0 +1,4 @@
+main: com.emerald.thunder.LifePlugin
+name: LifePlugin
+version: 1.2
+api-version: 1.19

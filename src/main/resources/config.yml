@@ -1,0 +1,5 @@
+config:
+  start-lives: 3 # Set to -1 for infinite lives
+  on-death: spectator # Should be either spectator or kick
+data:
+  # This is used by the plugin code. Only edit if you know what you're doing
